@@ -4,7 +4,7 @@
 <br>
 <br>
 
-#### This is an implementation of the Neural Evolution with Fixed Topologies Algorithm in the Flappy Bird Game. 🐦
+###  This is an implementation of the Neural Evolution with Fixed Topologies Algorithm in the Flappy Bird Game. 🐦
 
 It's the game you see in the Chrome Browser, when you're offline - but with A.I. 
 
@@ -56,7 +56,7 @@ That's the easiest way to get started. If you want to do it manually, you can fo
 
 ## Controls
 
-- You don't need to control the bird. The AI will do that for you :)
+You don't need to control the bird. The AI will do that for you :)
 
 ## Libraries
 
