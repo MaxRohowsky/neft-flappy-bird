@@ -6,9 +6,9 @@
 
 ###  This is an implementation of the Neural Evolution with Fixed Topologies Algorithm in the Flappy Bird Game. 🐦
 
-It's the game you see in the Chrome Browser, when you're offline - but with A.I. 
+### Show support by 🌟 the project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/neft-flappy-bird.svg?style=social&label=Star)
 
-Made by [maxontech](https://twitter.com/max_on_tech)
+### Made by [maxontech](https://twitter.com/max_on_tech)
 
 ## Table of contents
 
