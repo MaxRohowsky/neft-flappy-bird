@@ -1,4 +1,4 @@
-# Neuro Evolution with Fixed Topologies (NEFT) Algorithm in Flappy Bird
+# Neuro Evolution with Fixed Topologies (NEFT) Algorithm in Flappy Bird (from scratch without ML Libraries)
 
 ![Preview](/preview.gif)
 <br>
