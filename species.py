@@ -15,7 +15,7 @@ class Species:
     def similarity(self, brain):
         similarity = self.weight_difference(self.benchmark_brain, brain)
         return self.threshold > similarity
-
+    
     @staticmethod
     def weight_difference(brain_1, brain_2):
         total_weight_difference = 0
@@ -51,13 +51,3 @@ class Species:
         baby = self.players[random.randint(1, len(self.players)) - 1].clone()
         baby.brain.mutate()
         return baby
-
-
-
-
-
-
-
-
-
-
