@@ -119,14 +119,3 @@ class Population:
             if p.alive:
                 extinct = False
         return extinct
-
-
-
-
-
-
-
-
-
-
-
